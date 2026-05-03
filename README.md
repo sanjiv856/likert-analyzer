@@ -1,4 +1,4 @@
-# Analyzed privacy concerns related to third-party cookies using data from Likert Scale Questionnaires.
+# Analysis of privacy concerns related to third-party cookies using data from Likert Scale Questionnaires.
 
 ## Overview:
 This project focuses on analyzing the privacy concerns of users regarding the acceptance of third-party cookies. The analysis is based on data collected through an online questionnaire survey, which utilized a Likert scale to measure participants' attitudes and perceptions.
